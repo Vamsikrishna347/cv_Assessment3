@@ -26,7 +26,7 @@ public class DispString
 					{
 						st=st+ch[j];
 					}
-					
+				break;
 				}	
 			}
 			return "Result: "+st;
